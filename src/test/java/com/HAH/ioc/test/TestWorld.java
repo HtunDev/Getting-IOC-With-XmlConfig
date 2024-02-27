@@ -2,7 +2,6 @@ package com.HAH.ioc.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
 import com.HAH.ioc.HelloWorld;
 
 public class TestWorld {
