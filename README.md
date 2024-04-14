@@ -1,0 +1,1 @@
+Getting IOC With XmlConfig
